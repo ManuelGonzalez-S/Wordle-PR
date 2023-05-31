@@ -1,2 +1,2 @@
 # Wordle-PR
-Proyecto con mecánicas de wordle hecho en la asignatura de programación durante 1º de DAM
+Proyecto en el que realizamos un wordle hecho en Java en programación de 1º de DAM
